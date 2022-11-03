@@ -4,13 +4,13 @@ import { getDatabase, ref, onChildAdded, set } from "https://www.gstatic.com/fir
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCiL7D1h3ZaoXdyoMXbgQ7b8RaUc6jdQ9g",
-    authDomain: "pog22-8b683.firebaseapp.com",
-    projectId: "pog22-8b683",
-    storageBucket: "pog22-8b683.appspot.com",
-    messagingSenderId: "793659510891",
-    appId: "1:793659510891:web:2fd69d58c30ea247b7e12e",
-    databaseURL: "https://pog22-8b683-default-rtdb.europe-west1.firebasedatabase.app/"
+    apiKey: "AIzaSyBLs0S0q-AKRxBVrj3UPY35cOGe7Abbw74",
+    authDomain: "chat-4d75a.firebaseapp.com",
+    projectId: "chat-4d75a",
+    storageBucket: "chat-4d75a.appspot.com",
+    messagingSenderId: "93662882605",
+    appId: "1:93662882605:web:8ac7315948b3cc458841a4",
+    databaseURL: "https://chat-4d75a-default-rtdb.europe-west1.firebasedatabase.app"
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
