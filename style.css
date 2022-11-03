@@ -27,11 +27,16 @@ ul {
     overflow: auto;
 }
 
-input:focus {
+.pass-input{
+    background: white;
+    border: 1px solid #c7c0c0;
+}
+
+.input:focus {
     outline: none;
 }
 
-input::placeholder {
+.input::placeholder {
     color: #c7c0c0;
 }
 
